@@ -18,6 +18,7 @@
 ---
 jre:
   version: 1.8.0_+
+  version: 1.8.0_31
   repository_root: "{default.repository.root}/openjdk/{platform}/{architecture}"
 jvmkill_agent:
   version: 1.+
